@@ -1,0 +1,8 @@
+cerchio1 CIRCLE 78.0 67.0 12.0
+rettangolo1 RECTANGLE 56.0 89.0 90.0 70.0
+cerchio2 CIRCLE 50.0 60.0 30.0
+rettangolo2 RECTANGLE 47.0 69.0 70.0 70.0
+cerchio3 CIRCLE 87.0 56.0 45.0
+rettangolo3 RECTANGLE 70.0 37.0 60.0 49.0
+cerchio4 CIRCLE 45.0 45.0 2.0
+rettangolo4 RECTANGLE 36.0 46.0 27.0 50.0

@@ -1,0 +1,3 @@
+rootProject.name = 'robot.prova.1'
+include ('app')
+
